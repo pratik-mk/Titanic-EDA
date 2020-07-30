@@ -7,3 +7,6 @@ Exploratory Data Analysis of Titanic dataset from Kaggle
 - seaborn
 - matplotlib
 - numpy
+
+# Dataset
+The dataset was obtained from a [Kaggle](https://www.kaggle.com/c/titanic) competition.
